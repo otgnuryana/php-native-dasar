@@ -1,0 +1,16 @@
+.container {
+    background-color: blueviolet;
+    display: inline;
+    position: absolute;
+    margin: 10% 0 0 39%;
+    padding: 10px 20px 10px 10px;
+}
+label {
+    display: block;
+}
+button {
+    margin: 10px 0 0 50px;
+}
+body {
+    background-color: brown;
+}
